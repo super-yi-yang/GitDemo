@@ -1,4 +1,5 @@
 Hello xiaofeiyang!
 Hello yangzhiyi!
 Hello zhonghua!  111111
+<<<<<<< HEAD
 Hello yzy!
